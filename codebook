@@ -1,0 +1,7 @@
+## Codebook:
+
+The tidy_data.txt is the tidy dataset. The variable description:
+
+a. Subject: Label in code
+b. Activity_Label: consists of 6 different activity
+c. column 3 through column 81: the numerical data
