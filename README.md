@@ -1,7 +1,7 @@
 # Coursera_Getting-CleaningData_PA
 
 This repository contains an R script for the tidying data process, file name: run_analysis.R
-Also, this repository contains 2 tidy data set, the first one named as Full_data.txt, and the another one is avg_tidy_data.txt.
+After executing the script file in computer, it will create 2 tidy data set, the first one named as Full_data.txt, and the another one is avg_tidy_data.txt.
 Details on the 2 tidy dataset:
 
 Full_data.txt is the dataset that contains both training and test sets, but only include measurements on these variables:  
